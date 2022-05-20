@@ -1,0 +1,5 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://db/flyway_r2dbc_sample_db
+    username: postgres
+    password: password
